@@ -38,7 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt \
     vendor/lge/v500/proprietary/lib/hw/camera.vendor.msm8960.so:system/lib/hw/camera.vendor.msm8960.so \
     vendor/lge/v500/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
-    vendor/lge/v500/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
+    vendor/lge/v500/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.gpad83.so \
     vendor/lge/v500/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/v500/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/lge/v500/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
